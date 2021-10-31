@@ -7,13 +7,20 @@
  
  & Maor Arnon | <img src="https://img.shields.io/badge/Maor-Programmer-green" alt="Ofek" >
      
-     Final project in an object-oriented programming course in c ++ Image of a zoo
-     using object-oriented programming and the principle of polymorphism
+     Implementation of numerical methods for solving mathematical problems.
+     Python code files according to the various topics during the course.
+     
  <img src="https://upload.wikimedia.org/wikipedia/he/4/44/SCE_logo.png" align="right"
      alt="SCE logo" width="320" height="98">
   <hr>
     
    In this project we demonstrate our knowledge in:
-   * **advanced OOP** 
-   * **C ++ programming principles**
-   * **polymorphism**
+   * **Python programming principles**
+   * **Numerical analysis methods** 
+   * **Machine precision**
+   *  **Interpolation & Extrapolation**
+   *  **Jacobi and GaussSeidel Methods**
+   *  **system of linear equations**
+   *  **Finding the roots of an equation**
+   *  **Numerical Integration**
+  
